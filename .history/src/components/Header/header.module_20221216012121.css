@@ -1,0 +1,17 @@
+.menu_block {
+  width: 100%;
+}
+.menu_box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_section {
+  margin-top: 20px;
+}
+
+.header_inContaiener {
+  background: rgb(9, 9, 9);
+  padding: 5px 0;
+}

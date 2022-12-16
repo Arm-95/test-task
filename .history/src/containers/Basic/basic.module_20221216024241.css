@@ -1,0 +1,53 @@
+.bacground_box {
+  background-image: url("../../../public/assets/bg.png");
+  background-size: cover;
+  width: 100%;
+  height: 520px;
+}
+
+/* .title {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 0px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+} */
+
+.title {
+  font-family: "Rubik";
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+.left_section {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  left: 120px;
+}
+
+.first_img {
+  position: absolute;
+  left: 0;
+  top: 120%;
+  z-index: 0;
+  width: 60%;
+}
+
+.second_img {
+  position: absolute;
+  left: 16%;
+  top: 20%;
+  z-index: 0;
+  width: 25%;
+}
+.thirds_img {
+  position: absolute;
+  left: -20%;
+  top: 150%;
+  z-index: 0;
+  width: 65%;
+}

@@ -1,0 +1,8 @@
+.menu_block {
+  width: 100%;
+}
+.menu_box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

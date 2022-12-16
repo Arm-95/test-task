@@ -1,0 +1,27 @@
+.bacground_box {
+  background-image: url("../../../public/assets/bg.png");
+  background-size: cover;
+  width: 100%;
+}
+
+/* .left_section {
+  position: relative;
+} */
+.firdt_img {
+  position: absolute;
+  width: 20%;
+  z-index: 0;
+  top: 15px;
+}
+.second_img {
+  position: relative;
+  width: 20%;
+  height: 20%;
+  z-index: 10;
+  left: 0%;
+  top: 0%;
+}
+.second_img img {
+  width: 100%;
+  height: 100%;
+}

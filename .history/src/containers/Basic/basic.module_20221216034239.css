@@ -1,0 +1,121 @@
+.bacground_box {
+  background-image: url("../../../public/assets/bg.png");
+  background-size: cover;
+  width: 100%;
+  padding-left: 10px;
+}
+.right_section {
+  margin-top: 130px;
+}
+.title {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 134px;
+  line-height: 152px;
+  /* or 106% */
+
+  display: flex;
+  align-items: center;
+
+  /* White */
+
+  color: #ffffff;
+}
+
+.subTitile {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.second_section_descrition {
+  margin: 40px 0;
+}
+.second_section_descrition h3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 43px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.second_section_descrition p {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.second_section {
+  background: black;
+  width: 100%;
+  height: 500px;
+  margin-top: -90px;
+}
+
+.title_second {
+  padding-top: 15%;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 57px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: #ffffff;
+}
+
+.title_second span {
+  color: #f8cb17;
+}
+
+.sales {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.sales h5 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #adadad;
+  margin-right: 20px;
+}
+
+.sales p {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 57px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  margin-left: 40px;
+}

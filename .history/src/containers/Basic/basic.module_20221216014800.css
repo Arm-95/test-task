@@ -1,0 +1,4 @@
+.bacground_box {
+  background-image: url("../../../public/assets/bg.png");
+  background-size: cover;
+}

@@ -1,0 +1,46 @@
+.bacground_box {
+  background-image: url("../../../public/assets/bg.png");
+  background-size: cover;
+  width: 100%;
+}
+
+.title {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 100px;
+  margin-top: 20px;
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+.subTitile {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+  margin-left: 20px !important;
+}
+
+.second_section_descrition {
+  margin: 40px 20px;
+}
+.second_section_descrition h3 {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 43px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+.second_section {
+  background: black;
+  width: 100%;
+}

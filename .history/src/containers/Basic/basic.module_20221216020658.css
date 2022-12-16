@@ -1,0 +1,8 @@
+.bacground_box {
+  background-image: url("../../../public/assets/bg.png");
+  background-size: cover;
+  width: 100%;
+}
+.firdt_img {
+  width: 50%;
+}

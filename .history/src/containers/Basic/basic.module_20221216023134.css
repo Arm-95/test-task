@@ -1,0 +1,15 @@
+.bacground_box {
+  background-image: url("../../../public/assets/bg.png");
+  background-size: cover;
+  width: 100%;
+}
+
+.left_section {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.first_img {
+  position: absolute;
+}
